@@ -1,5 +1,16 @@
 
-* {
-    padding: 0;
-    margin: 0;
+header{
+    width: 1350px;
+    height: 58px;
+    background-color: rgb(7, 6, 68);
+}
+nav{
+    width: 1330px;
+    height: 47px;
+    background-color:#593e35 ;
+}
+.error{
+      width: 1330px;
+    height: 47px;
+    background-color:#593e35 ;
 }
